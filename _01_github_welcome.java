@@ -13,5 +13,6 @@ public class _01_github_welcome {
         System.out.println("여긴 vsc");
         System.out.println('fdsaffaf');
         System.out.println("afklf고고곡!!!!");
+        System.out.println("e딜레이가있는ㄴ건가");
     }
 }

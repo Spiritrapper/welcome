@@ -9,5 +9,7 @@ public class _01_github_welcome {
         System.out.println("결국된건가?");
         System.out.println("여기는 vsc 프로그램");
         System.out.println("intellij ");
+        System.out.println("버전업로드");
+        System.out.println("여긴 vsc");
     }
 }

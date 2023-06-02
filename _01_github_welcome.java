@@ -12,5 +12,7 @@ public class _01_github_welcome {
         System.out.println("버전업로드");
         System.out.println("여긴 vsc");
         System.out.println('fdsaffaf');
+        System.out.println(fjkdajfklja
+        );
     }
 }

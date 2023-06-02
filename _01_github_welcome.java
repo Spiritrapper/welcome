@@ -7,5 +7,7 @@ public class _01_github_welcome {
         System.out.println("이름");
         System.out.println("333333");
         System.out.println("결국된건가?");
+        System.out.println("여기는 vsc 프로그램");
+        System.out.println("intellij ");
     }
 }

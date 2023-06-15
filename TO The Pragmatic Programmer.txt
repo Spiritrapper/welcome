@@ -1,0 +1,29 @@
+consistant keep going study thinking 
+
+
+
+
+Pragmatic Programmer 
+ TODO: Tip 1. Care About Your Craft
+ TODO: Tip 2. Think! About Your Work
+    This isn't a one-time audit of current practices
+    Never run on auto-pilot
+
+structure of a project : individuality and craftmanship
+
+Every day work to refine the skill , to add new tools to your repertoire
+
+A Pragmatic Philosophy 
+
+an attitude, a style, a philosophy of approaching problems and their solutions 
+
+Won't sit idly by, watch their projects fall apart through neglect
+
+
+Topic 1. It's Your Life : "Why can't you change it?"
+ 
+ TODO: Tip 3.You Have Agency : Be proactive, and take them
+
+Topic 2. The Cat Ate My Source Code
+
+ 

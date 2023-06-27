@@ -1,9 +1,12 @@
 consistant keep going study thinking 
 
+FIXME: Really People do? change ? 
+
 
 
 
 Pragmatic Programmer 
+ 
  TODO: Tip 1. Care About Your Craft
  TODO: Tip 2. Think! About Your Work
     This isn't a one-time audit of current practices
@@ -22,8 +25,198 @@ Won't sit idly by, watch their projects fall apart through neglect
 
 Topic 1. It's Your Life : "Why can't you change it?"
  
- TODO: Tip 3.You Have Agency : Be proactive, and take them
+ TODO: Tip 3. You Have Agency : Be proactive, and take them
 
 Topic 2. The Cat Ate My Source Code
+
+ TODO: Tip 4. Provide Options, Don't Make Lame Excuses
+
+Topic 3. Software Entropy
+
+ TODO: Tip 5. Don't Live with Brokken Windows
+
+Topic 4. Stone Soup and Boiled Frogs
+
+ TODO: Tip 6. Be a Ctalyst for Change
+ TODO: Tip 7. Remember the Big Picture : Don't be like fabled frog
+ TODO: Tip 8. Make Quality a Requirements Issue
+
+Topic 6. Your Knowledge Portfolio
+
+BUILDING YOUR Portfolio
+
+    Invest regularly
+    Diversify
+    Manage risk
+    Buy low, sell high
+    Review and rebalance
+
+ TODO: Tip 9. Invest Regularly in Your Knowledge Portfolio
+
+ GOALS TODO:
+    
+    Learn at least one new language every year
+    Read a technical book each month
+    Take classes
+    Participate in local user groups and meetups
+    Experiment with different environments
+    Stay current
+
+ TODO: Tip 10. Critically Analize What You Read and Her
+
+    Ask the "Five Whys"
+    Who does this benefit?
+    What's the context?
+    When or Where would this work?
+
+Topic 7. Communicate!
+
+ TODO: Tip 11. English is Just Another Programming language
+ TODO: Tip 12. It's Both What You Say and the Way You Say It
+ TODO: Tip 13. Build Documentation In, Don't Bolt It On
+
+ SUMMARY
+
+    Know what you want to Say.
+
+    Know your audience.
+
+    Choose your moment.
+
+    Choose a style.
+
+    Involve your audience.
+    
+    Be a listener.
+
+    Get back to People.
+
+    Keep code and documentation together.
+
+TODO: Online communication Tips
+
+    Proofread before you hit send
+
+    Check your spelling and look for any accidental auto-corrent mishaps
+
+    Keep the format simple and clear
+
+    Keep quoting to a minimum. No one likes to recieve back their own 100-listener
+    email with "I agree" tacked on
+
+    If you're quoting other people's email, be sure to attreibute it, and quote it inline
+    (rather than as an attachment). Same when quoting on social media platforms.
+
+    Don't flame or act like a troll unless you want it to come back and haunt you later.
+    If you wouldn't say it to someone's face, don't say it online.
+
+    Check your list of recipients before sending. It's become a cliché to criticize the boss
+    over departmental email without realizing that the boss is on the cc list.
+    Better yet, don't criticize the boss over email.
+
+Topic 8. The Essence of Good  Design
+
+ TODO: Tip 14. Good Design Is Easier to Change Than Bad Design
+ TODO: Tip 15. DRY-Don't Repeat Yourself
+ TODO: Tip 16. Make It Easy to Requirements
+ TODO: Tip 17. Eliminate Effects Between Unrelated Things
+
+Topic 10. Orthogonality
+Topic 11. Reversibility
+
+ TODO: Tip 18. There Are No Final Decisions
+ TODO: Tip 19. Forgo Following Fads
+
+Topic 12. Tracer Bullets
+
+ TODO: Tip 20. Use Tracer Bullets to Find the Target
+
+The tracer code approach has many advantages :
+
+    Users get to see something working early
+
+    Developers build a structure to work in
+
+    You have an intergration platforms
+
+    You have something to demonstrate
+
+    You have a better feel for progress
+
+Topic 13. Prototypes and Post-it Notes
+
+ TODO: Tip 21. Prototype to Learn
+    
+    Correctness
+
+    Completeness
+
+    Robustness
+
+    Style
+
+Topic 14. Domain Languages
+
+ TODO: Tip 22. Program Close to the Problem Domain
+
+Topic 15. Estimating
+
+ TODO: Tip 23. Estimate to Avoid Surprises
+ TODO: Tip 24. Iterate the Schedule with the code
+
+Topic 16. The Power of Plain Text
+
+ TODO: Tip 25. Keep Knowledge in Plain Text 
+
+Topic 17. Shell Games
+
+Topic 18. Power Editing
+
+ TODO: Tip 27 Achieve Editor Fluency
+
+WHAT DOES"FLUENT"MEAN?
+
+ When editing text, move and make selections by character, word, line, and paragraph.
+
+ When editing code, move by various syntactic units(matching delimiters, funtions, modules, ...)
+
+ Reindent code following changes. 
+
+ Comment and umcomment blocks of code with a single command.
+
+ Undo and redo changes.
+
+ Split the editor window into multiple panels, and navigate between them.
+
+ Navigate to a particular line number.
+
+ Sort selected lines.
+
+ Search for both string and regular expressions, and repeat previous searches.
+
+ Temporarily creat multiple cursors based on a selection or on a pattern match, and edit the text at each in a parallel.
+
+ Display compication errors in the current project.
+
+ Rum the current projent's tests.
+
+TODO: Pragmatic approach : Learn the commnads that make your life easier.
+
+Topic 19. Version control
+
+ TODO: Tip 28. Always Use Version Control
+
+Topic 20. Debugging
+
+ TODO: Tip 29. Fix the Problem, Not the Blame
+ TODO: Tip 3o. Don't Panic
+ TODO: Tip 31. Failing Test Before Fixing Code
+ TODO: Tip 32. Read the Damn Error Message
+ TODO: Tip 33. "select"Isn't Broken
+ TODO: Tip 34. Don't Assume It-Prove it
+
+Topic 21. Text Manipulation
+
+
 
  
